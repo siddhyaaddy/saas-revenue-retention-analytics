@@ -1,1 +1,4 @@
+## Tableau Dashboard Preview
+
+![Dashboard Preview](assets/dashboard_preview.png)
 
