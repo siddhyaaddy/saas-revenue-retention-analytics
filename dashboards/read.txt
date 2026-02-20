@@ -1,4 +1,4 @@
 ## Tableau Dashboard Preview
 
-![Dashboard Preview](assets/dashboard_preview.png)
+![dashboards](assets/SaaS_Dashboard.png)
 
