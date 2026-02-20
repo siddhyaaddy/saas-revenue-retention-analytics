@@ -117,7 +117,7 @@ Executive KPI dashboard includes:
 - Z-score significance
 - CLV (Customer Lifetime Value)
 
-![Dashboard Preview](./assets/Executive_Dashboard.JPEG)
+![Excel Executive Dashboard](./assets/Executive_Dashboard.png)
 
 ---
 
