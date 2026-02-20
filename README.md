@@ -52,7 +52,7 @@ Excel Executive KPI Dashboard
 ---
 ---
 
-## 🗄️ Database Design
+## Database Design
 
 ### Core Tables
 
@@ -70,7 +70,7 @@ Excel Executive KPI Dashboard
 
 ---
 
-## 📈 Key Metrics Computed
+## Key Metrics Computed
 
 ### Revenue Metrics
 - Monthly Recurring Revenue (MRR)
