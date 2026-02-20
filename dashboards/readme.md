@@ -1,3 +1,3 @@
-## 📊 Tableau Dashboard
+## Tableau Dashboard
 
-![Dashboard Preview](assets/Saas_Dashboard.JPEG)
+![Dashboard Preview](assets/SaaS_Dashboard.JPEG)
